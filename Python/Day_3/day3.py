@@ -1,4 +1,4 @@
-print("Advent Of Code - Day 2")
+print("Advent Of Code - Day 3")
 
 PUZZLEINPUT = open('input.txt', 'r').read()
 
